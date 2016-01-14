@@ -1,0 +1,5 @@
+c:\users\acer8\documents\visual studio 2013\Projects\TDDHomework1\TDDHomework1\obj\Debug\TDDHomework1.csprojResolveAssemblyReference.cache
+c:\users\acer8\documents\visual studio 2013\Projects\TDDHomework1\TDDHomework1\bin\Debug\TDDHomework1.dll
+c:\users\acer8\documents\visual studio 2013\Projects\TDDHomework1\TDDHomework1\bin\Debug\TDDHomework1.pdb
+c:\users\acer8\documents\visual studio 2013\Projects\TDDHomework1\TDDHomework1\obj\Debug\TDDHomework1.dll
+c:\users\acer8\documents\visual studio 2013\Projects\TDDHomework1\TDDHomework1\obj\Debug\TDDHomework1.pdb
